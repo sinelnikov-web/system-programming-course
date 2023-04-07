@@ -1,5 +1,5 @@
 ﻿using System.Globalization;
-using SystemProgramming;
+using DatePrinterLibrary;
 
 namespace DatePrinterProgram;
 class Program
