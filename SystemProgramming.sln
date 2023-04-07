@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1705.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemProgramming", "SystemProgramming\SystemProgramming.csproj", "{D9864D98-FD03-4173-91FE-E7C633339ACA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatePrinterProgram", "DatePrinterProgram\DatePrinterProgram.csproj", "{D0A3BBFF-EE5E-4D3A-B753-36B9F77109F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D9864D98-FD03-4173-91FE-E7C633339ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9864D98-FD03-4173-91FE-E7C633339ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9864D98-FD03-4173-91FE-E7C633339ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A3BBFF-EE5E-4D3A-B753-36B9F77109F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A3BBFF-EE5E-4D3A-B753-36B9F77109F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A3BBFF-EE5E-4D3A-B753-36B9F77109F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A3BBFF-EE5E-4D3A-B753-36B9F77109F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
