@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatePrinterLibrary", "Syste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatePrinterProgram", "DatePrinterProgram\DatePrinterProgram.csproj", "{D0A3BBFF-EE5E-4D3A-B753-36B9F77109F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStackLibrary", "MyStack\MyStackLibrary.csproj", "{A45624F9-5823-433B-952B-5C71D2C30650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackPrinterProgram", "StackPrinterProgram\StackPrinterProgram.csproj", "{6FEC81DD-14CC-4713-ADCD-F2969FB41154}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D0A3BBFF-EE5E-4D3A-B753-36B9F77109F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0A3BBFF-EE5E-4D3A-B753-36B9F77109F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0A3BBFF-EE5E-4D3A-B753-36B9F77109F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45624F9-5823-433B-952B-5C71D2C30650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45624F9-5823-433B-952B-5C71D2C30650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45624F9-5823-433B-952B-5C71D2C30650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45624F9-5823-433B-952B-5C71D2C30650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FEC81DD-14CC-4713-ADCD-F2969FB41154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEC81DD-14CC-4713-ADCD-F2969FB41154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEC81DD-14CC-4713-ADCD-F2969FB41154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEC81DD-14CC-4713-ADCD-F2969FB41154}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
