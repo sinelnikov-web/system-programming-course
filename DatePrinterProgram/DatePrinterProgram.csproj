@@ -8,6 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SystemProgramming\SystemProgramming.csproj" />
+    <ProjectReference Include="..\SystemProgramming\DatePrinterLibrary.csproj" />
   </ItemGroup>
 </Project>

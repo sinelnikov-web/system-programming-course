@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace SystemProgramming;
+namespace DatePrinterLibrary;
 public class DateTimePrinter
 {
 
