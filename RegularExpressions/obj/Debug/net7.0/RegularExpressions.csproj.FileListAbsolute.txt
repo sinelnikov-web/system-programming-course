@@ -1,0 +1,17 @@
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/bin/Debug/net7.0/RegularExpressions
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/bin/Debug/net7.0/RegularExpressions.deps.json
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/bin/Debug/net7.0/RegularExpressions.runtimeconfig.json
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/bin/Debug/net7.0/RegularExpressions.dll
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/bin/Debug/net7.0/RegularExpressions.pdb
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/obj/Debug/net7.0/RegularExpressions.csproj.AssemblyReference.cache
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/obj/Debug/net7.0/RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/obj/Debug/net7.0/RegularExpressions.AssemblyInfoInputs.cache
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/obj/Debug/net7.0/RegularExpressions.AssemblyInfo.cs
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/obj/Debug/net7.0/RegularExpressions.csproj.CoreCompileInputs.cache
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/obj/Debug/net7.0/RegularExpressions.dll
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/obj/Debug/net7.0/refint/RegularExpressions.dll
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/obj/Debug/net7.0/RegularExpressions.pdb
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/obj/Debug/net7.0/RegularExpressions.genruntimeconfig.cache
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/obj/Debug/net7.0/ref/RegularExpressions.dll
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/bin/Debug/net7.0/TextFile.txt
+/Users/sinelnikov-web/projects/SystemProgramming/RegularExpressions/bin/Debug/net7.0/TextWithDigits.txt

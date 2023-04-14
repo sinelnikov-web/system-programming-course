@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStackLibrary", "MyStack\M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackPrinterProgram", "StackPrinterProgram\StackPrinterProgram.csproj", "{6FEC81DD-14CC-4713-ADCD-F2969FB41154}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{875CB32B-600E-4533-B0A9-32C1730F3114}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6FEC81DD-14CC-4713-ADCD-F2969FB41154}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FEC81DD-14CC-4713-ADCD-F2969FB41154}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FEC81DD-14CC-4713-ADCD-F2969FB41154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875CB32B-600E-4533-B0A9-32C1730F3114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875CB32B-600E-4533-B0A9-32C1730F3114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875CB32B-600E-4533-B0A9-32C1730F3114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875CB32B-600E-4533-B0A9-32C1730F3114}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
